@@ -51,15 +51,3 @@ Ensure you have the following installed:
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
----
-
-Let me know if you'd like to add or modify anything!
-
-```
-
-```
